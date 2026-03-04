@@ -7,4 +7,6 @@ step 4: activate the virtual
 -`env\scripts\activate`
 step 5: install django 
 -`pip install django`
- 
+strp 6: create a django project
+-`django-admin startproject translator` 
+ step 7: run the
